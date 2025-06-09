@@ -4,10 +4,7 @@ Task 3: Predictive Modeling with Decision Tree Classifier
 
 📌 About the Task
 
-For the third task in the Data Science Internship at Prodigy Infotech, I built a Decision Tree Classifier to predict whether a customer will purchase a product or service. The model is trained on the Bank Marketing Dataset from the UCI Machine Learning Repository, which includes demographic and behavioral attributes.
-
-This task focuses on applying supervised machine learning for binary classification using decision trees — a simple yet powerful algorithm used in many real-world applications.
-
+For the third task in the Data Science Internship at Prodigy Infotech, Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
 
 🛠 Tools & Libraries Used
 
